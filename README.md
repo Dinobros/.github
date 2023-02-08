@@ -1,2 +1,3 @@
-# .github
-🦖 We make AdverGames. We are Bros. We are Dinobros.
+# Dinobros
+
+🦖 We make Advergames. We are Bros. We are Dinobros.

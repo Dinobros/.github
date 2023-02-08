@@ -1,5 +1,5 @@
 # 🦖
 
-### We make AdverGames.
+### We make Advergames.
 ### We are Bros.
 ### We are Dinobros.
